@@ -1,11 +1,12 @@
 #mean bash command 
 Creates necessary directories and files for the mean stack assignments for the Coding Dojo. 
 
-## Installation 
+## Installation with bash shell 
 1. Copy to and paste to bash profile 
-  A. ``` cd  ```
   
-   B. ``` vim .bash_profile  ```
+  A. ``` $ cd (Back to your home folder) ``` 
+  
+   B. ```$ vim .bash_profile  ```
    
 
 ## Usage 
