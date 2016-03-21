@@ -1,5 +1,5 @@
 #mean bash command 
-Creates necessary directories and files for the mean stack assignments for the Coding Dojo. 
+Creates necessary directories and files for the Coding Dojo mean stack assignments. 
 
 ## Installation with bash shell 
 1. Copy to and paste to bash profile 
